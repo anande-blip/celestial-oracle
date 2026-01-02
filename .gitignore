@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
+agent.py.backup
+agent.py.new
+agent.py2
+agent.py2.save
